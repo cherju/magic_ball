@@ -1,2 +1,2 @@
 # magic_ball
- mistic project )
+ mystic project )
